@@ -15,7 +15,7 @@ import {
   FileBarChart,
 } from "lucide-react";
 import { useAuth } from "../hooks/useAuth";
-import { projectId, publicAnonKey } from "/utils/supabase/info";
+import { projectId } from "/utils/supabase/info";
 import { MedicalSummary } from "../components/MedicalSummary";
 import { MedicalTimeline } from "../components/MedicalTimeline";
 import { PrescriptionSearch } from "../components/PrescriptionSearch";
