@@ -56,6 +56,12 @@ MediTimeline is a comprehensive healthcare application that helps users organize
 - **Supabase Cloud** - Backend and database hosting
 - **GitHub** - Version control
 
+## Screenshots
+
+<img width="1632" height="768" alt="Screenshot 2026-02-21 053442" src="https://github.com/user-attachments/assets/b56bfe36-0f56-4e77-ba64-5cba86b71ec0" />
+<img width="1646" height="887" alt="Screenshot 2026-02-21 053413" src="https://github.com/user-attachments/assets/b00f496d-852a-44d6-a78f-5f06a0410dbc" />
+<img width="1363" height="888" alt="Screenshot 2026-02-21 053346" src="https://github.com/user-attachments/assets/b2122f9b-3958-4154-b311-2d6985354515" />
+
 ## 📋 Prerequisites
 
 Before you begin, ensure you have:
