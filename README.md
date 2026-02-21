@@ -306,6 +306,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Authors
 
 - **Rosna** - [@Rosna426](https://github.com/Rosna426)
+- **Sherin** - [@Sherin745](https://github.com/Sherin745)
 
 ## 🙏 Acknowledgments
 
